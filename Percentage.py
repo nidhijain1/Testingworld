@@ -7,5 +7,6 @@ for _ in range(n):
 query_name = input()
 student_score = sum(student_marks[query_name])
 print("%.2f" % (student_score / 3))
+#this is the last value
 
 
