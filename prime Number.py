@@ -6,3 +6,5 @@ if num>1:
             break
     else:
         print("number prime"+str(num))
+        
+#prime number
